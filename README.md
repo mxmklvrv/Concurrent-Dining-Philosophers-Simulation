@@ -1,4 +1,4 @@
-# Philosophers
+# Concurrent Dining Philosophers Simulation
 
 A multithreading simulation of the classic Dining Philosophers problem written in C as part of the Hive Helsinki curriculum.
 
@@ -84,3 +84,5 @@ Through this project, I gained practical experience with:
 * Structuring medium-scale C projects
 
 It significantly improved my understanding of how operating systems manage concurrency and how subtle synchronization mistakes can lead to complex bugs.
+
+---
